@@ -40,6 +40,3 @@ Web dashboard
 👨‍💻 Author
 
 Avirup Das
-.env
-models/*.pt
-output/
